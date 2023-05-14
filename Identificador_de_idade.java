@@ -9,7 +9,7 @@ public class Identificador_de_idade {
         } else if (idade > 18 && idade <= 65){
             System.out.println ("É um (a) adulto (a)");
         }else {
-            System.out.println ("Está na melhor idade")
+            System.out.println ("Está na melhor idade");
         }
 
         
